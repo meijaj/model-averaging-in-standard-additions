@@ -1,2 +1,4 @@
 # model-averaging-in-standard-additions
-This calculator performs ordinary least squares fitting of several measurement models and calculates the model average result based on Bayesian information criterion (BIC)
+The method of standard additions can provide unreliable results in chemical analysis when linear calibration model is forced to fit the data. Indeed, a well designed standard addition experiment can still yield results biased by 10 % when the analyst relies only on linear model. Recently, the Joint Committee for Guides in Metrology (GUM-6) has emphasized the need to address the uncertainty inherent to the choice of measurement models and here we show how model averaging can provide a practical way to account for model uncertainty in the method of standard additions.
+
+This calculator performs ordinary least squares fitting of several measurement models and calculates the model average result based on Bayesian information criterion (BIC). Details of this work are published in <i>Metrologia</i> (2023) https://doi.org/10.1088/1681-7575/accd75
